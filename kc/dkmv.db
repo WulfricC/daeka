@@ -1,0 +1,67 @@
+-- DKMv Database --
+
+{
+	dkmv = {
+		toast = "",
+		info = "",
+		access = "dk",
+		extension = ".db",
+		url = "https://raw.githubusercontent.com/WulfricC/daeka/master/kc/dkmv.db"
+		}
+	dk = {
+		toast = "",
+		info = "",
+		access = "dk",
+		extension = ".lua",
+		url = "https://raw.githubusercontent.com/WulfricC/daeka/master/dk/dk.lua"
+		}
+	download = {
+		toast = "",
+		info = "",
+		access = "user",
+		extension = ".lua",
+		url = "https://raw.githubusercontent.com/WulfricC/daeka/master/dk/download.lua"
+		}
+	color = {
+		toast = "",
+		info = "",
+		access = "dk",
+		extension = ".lua",
+		id = "https://raw.githubusercontent.com/WulfricC/daeka/master/dk/color.lua"
+		}
+	example = {
+		toast = "",
+		info = "",
+		access = "user",
+		extension = ".lua",
+		id = "https://raw.githubusercontent.com/WulfricC/daeka/master/dk/example.lua"
+		}
+	file = {
+		toast = "",
+		info = "",
+		access = "dk",
+		extension = ".lua",
+		id = "https://raw.githubusercontent.com/WulfricC/daeka/master/dk/file.lua"
+		}
+	serialize = {
+		toast = "",
+		info = "",
+		access = "dk",
+		extension = ".lua",
+		id = "https://raw.githubusercontent.com/WulfricC/daeka/master/dk/serialize.lua"
+		}
+	startup = {
+		toast = "",
+		info = "",
+		access = "dk",
+		extension = ".lua",
+		id = "https://raw.githubusercontent.com/WulfricC/daeka/master/dk/startup.lua"
+		}
+	wipe = {
+		toast = "",
+		info = "",
+		access = "user",
+		extension = ".lua",
+		id = "https://raw.githubusercontent.com/WulfricC/daeka/master/dk/wipe.lua"
+		}
+}
