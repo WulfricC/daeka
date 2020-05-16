@@ -74,8 +74,3 @@ else
 	dk.runConsole(args)
 	return
 end
-
-
-
-
-
