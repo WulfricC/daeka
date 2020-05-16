@@ -1,7 +1,4 @@
--- DKMv Database --
-
-{
-	dkmv = {
+{	dkmv = {
 		toast = "",
 		info = "",
 		access = "dk",
