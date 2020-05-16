@@ -2,6 +2,7 @@
 		toast = "",
 		info = "",
 		access = "dk",
+		location = "data",
 		extension = ".db",
 		url = "https://raw.githubusercontent.com/WulfricC/daeka/master/kc/dkmv.db"
 		},
@@ -9,6 +10,7 @@
 		toast = "",
 		info = "",
 		access = "dk",
+		location = "programs",
 		extension = ".lua",
 		url = "https://raw.githubusercontent.com/WulfricC/daeka/master/dk/dk.lua"
 		},
@@ -16,6 +18,7 @@
 		toast = "",
 		info = "",
 		access = "user",
+		location = "programs",
 		extension = ".lua",
 		url = "https://raw.githubusercontent.com/WulfricC/daeka/master/dk/download.lua"
 		},
@@ -23,6 +26,7 @@
 		toast = "",
 		info = "",
 		access = "dk",
+		location = "programs",
 		extension = ".lua",
 		id = "https://raw.githubusercontent.com/WulfricC/daeka/master/dk/color.lua"
 		},
@@ -30,6 +34,7 @@
 		toast = "",
 		info = "",
 		access = "user",
+		location = "programs",
 		extension = ".lua",
 		id = "https://raw.githubusercontent.com/WulfricC/daeka/master/dk/example.lua"
 		},
@@ -37,6 +42,7 @@
 		toast = "",
 		info = "",
 		access = "dk",
+		location = "programs",
 		extension = ".lua",
 		id = "https://raw.githubusercontent.com/WulfricC/daeka/master/dk/file.lua"
 		},
@@ -44,6 +50,7 @@
 		toast = "",
 		info = "",
 		access = "dk",
+		location = "programs",
 		extension = ".lua",
 		id = "https://raw.githubusercontent.com/WulfricC/daeka/master/dk/serialize.lua"
 		},
@@ -51,6 +58,7 @@
 		toast = "",
 		info = "",
 		access = "dk",
+		location = "programs",
 		extension = ".lua",
 		id = "https://raw.githubusercontent.com/WulfricC/daeka/master/dk/startup.lua"
 		},
@@ -58,6 +66,7 @@
 		toast = "",
 		info = "",
 		access = "user",
+		location = "programs",
 		extension = ".lua",
 		id = "https://raw.githubusercontent.com/WulfricC/daeka/master/dk/wipe.lua"
 		},
